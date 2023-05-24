@@ -1,0 +1,5 @@
+2023-05-23 22:04:48,654 DEBUG i.n.h.c.c.Brotli [AsyncHttpClient-1-2] brotli4j not in the classpath; Brotli support will be unavailable.
+2023-05-23 22:04:48,770 DEBUG i.n.u.i.ThreadLocalRandom [main] -Dio.netty.initialSeedUniquifier: 0x1eb6158b5ebdc3ff
+2023-05-23 22:04:48,976 INFO c.m.Day15_Log4J2 [main] Starting the testing...Opening the URL
+2023-05-23 22:04:49,974 INFO c.m.Day15_Log4J2 [main] Getting thr page title...
+2023-05-23 22:04:50,086 INFO c.m.Day15_Log4J2 [main] Pass...Page Title isTechpro Education | Online It Courses & Bootcamps

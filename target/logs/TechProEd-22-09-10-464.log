@@ -1,0 +1,6 @@
+2023-05-23 22:09:10,463 DEBUG i.n.h.c.c.Brotli [AsyncHttpClient-1-2] brotli4j not in the classpath; Brotli support will be unavailable.
+2023-05-23 22:09:10,575 DEBUG i.n.u.i.ThreadLocalRandom [main] -Dio.netty.initialSeedUniquifier: 0x24cc4cf323ea5ceb
+2023-05-23 22:09:10,762 INFO c.m.Day15_Log4J2 [main] Opening the URL
+2023-05-23 22:09:11,216 INFO c.m.Day15_Log4J2 [main] Right click on the box
+2023-05-23 22:09:11,441 INFO c.m.Day15_Log4J2 [main] Assert alert message
+2023-05-23 22:09:11,456 INFO c.m.Day15_Log4J2 [main] Testing succesful

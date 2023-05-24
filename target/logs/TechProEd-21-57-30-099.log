@@ -1,0 +1,5 @@
+2023-05-23 21:57:30,096 DEBUG c.m.Day15_Log4J2 [main] Debug log
+2023-05-23 21:57:30,101 WARN c.m.Day15_Log4J2 [main] Warn log
+2023-05-23 21:57:30,102 INFO c.m.Day15_Log4J2 [main] Info log
+2023-05-23 21:57:30,102 ERROR c.m.Day15_Log4J2 [main] Error log
+2023-05-23 21:57:30,102 FATAL c.m.Day15_Log4J2 [main] Fatal log
